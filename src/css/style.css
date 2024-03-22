@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Lexend+Deca:wght@100..900&display=swap');
+
+:root {
+    --very-dark-blue: hsl(217, 54%, 11%);
+    --very-blue: hsl(244, 38%, 16%);
+    --violet: hsl(277, 64%, 61%);
+    --white: hsl(0, 0%, 100%);
+    --transp-white: hsla(0, 0%, 100%, 0.75);
+    --s-transp-white: hsla(0, 0%, 100%, 0.6);
+    
+  }
