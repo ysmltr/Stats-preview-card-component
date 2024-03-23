@@ -67,6 +67,6 @@ How to make a media section:
  How to make a responsive design with css flexbox and the basic uses of html and css. viewing your solution or for yourself when you look back on this project in the future.
 
 Author
-Website -[@yesimilter] https://yesimilter.me
-Frontend Mentor - [@ysmltr](https://www.frontendmentor.io/profile/ysmltr)
-Twitter - [@yesimltr](https://twitter.com/yesimltr)
+Website -[@yesimilter] https://yesimilter.me <br>
+Frontend Mentor - [@ysmltr](https://www.frontendmentor.io/profile/ysmltr)<br>
+Twitter - [@yesimltr](https://twitter.com/yesimltr)<br>
