@@ -7,20 +7,20 @@ Screenshots:
 ![alt text](image-1.png)
 
 Links
-Solution URL:(https://github.com/ysmltr/Stats-preview-card-component.git)
-Live Site URL: (https://stats-preview-card-component-blond.vercel.app)
-My process
-Built with
-Semantic HTML5 markup
-CSS custom properties
-Flexbox
-CSS Grid
-What I learned
-Built with -HTML
+Solution URL:(https://github.com/ysmltr/Stats-preview-card-component.git)<br>
+Live Site URL: (https://stats-preview-card-component-blond.vercel.app)<br>
+My process<br>
+Built with<br>
+Semantic HTML5 markup<br>
+CSS custom properties<br>
+Flexbox<br>
+CSS Grid<br>
+What I learned<br>
+Built with -HTML<br>
 
--CSS Flexbox
+-CSS Flexbox<br>
 
-What I learned
+What I learned<br>
 
 How to make a media section:
 
