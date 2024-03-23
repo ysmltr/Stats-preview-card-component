@@ -7,7 +7,8 @@
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
   
   <title>Frontend Mentor | Stats preview card component</title>
-
+  <!--css-->
+  <link rel="stylesheet" href="./src/css/style.css">
   <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
   <style>
     .attribution { font-size: 11px; text-align: center; }
@@ -18,9 +19,11 @@
       <main>
         <div class="container">
           <div class="left-section">
-            <h1>Get <b>insights</b> that help your business grow. </h1>
+            <div class="text-section">
+            <h1>Get <span>insights</span> that help your business grow. </h1>
             <p class="info">Discover the benefits of data analytics and make better decisions regarding revenue, customer 
               experience, and overall efficiency.</p>
+
               <div class="stats">
                 <div class="items">
                   <h2 class="header">10k+</h2>
@@ -33,26 +36,21 @@
               <div class="items">
                   <h2 class="header">12M+</h2>
                   <p class="text">queries</p>
+                </div>
               </div>
               </div>
+              <div class="img-section">
+                <img src="./images/image-header-desktop.jpg" alt="">
+              </div>
           </div>
-          <div class="img-section">
-            <img src="./images/image-header-desktop.jpg" alt="">
-          </div>
+          
         </div>
       </main>
 
 
   
 
-  
-  10k+ companies
-  314 templates
-  12m+ queries
 
-  <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
-  </div>
+
 </body>
 </html>
